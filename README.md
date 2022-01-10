@@ -1,2 +1,2 @@
 
-# Temperature and Wind Speed Forecasting in Saudi Arabia using Two Machine Learning Models
+# Temperature and Wind Speed Forecasting using Two Machine Learning Models
