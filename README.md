@@ -3,7 +3,7 @@
 
 ## Project Describtion
 
-The idea of the project aims to build machine learing model that able to forcast the weather elements in Saudi Arabia. The scope of work were focused into the follwing points:
+The idea of the project aims to build machine learing model that able to forcast the weather elements in Saudi Arabia. The main goals for this project are:
 
 - Predict temperature and pressure for different cities in Saudi Arabia.
 
@@ -43,7 +43,7 @@ Topic Modeling
 
 ## Limitation:
 - Limited Data Available.
-- Time Limit
+- Not using time series focasting
 - Finding the best model to use.
 ## Future work:
 - Include more cities
@@ -64,5 +64,5 @@ MAE (Mean absolute error), and R-squared are used to Evaulate the model accuracy
 
 
 ### Conclusion:
-
+The data for the KSA weather was obtained and utilized to perform predictive machine that can forcast the temprature and wind speed. A Exploratory Data Analysis were carried out to find the trening weather behaviour in Saudi Arabia. Although a relativly good accureacy were achived, this model is not so reliable as the sample size were not big enough (only 3 years time range)/For a variety of There were several hurdles throughout the development process, particularly in the and model training stages. The accuracy of the model is 67 percent, indicating that it did not generalize effectively.
 ### References
