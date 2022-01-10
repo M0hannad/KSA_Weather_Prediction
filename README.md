@@ -49,6 +49,7 @@ Topic Modeling
 - Include more cities
 - Use the information to help estimate the potential for solar and wind energy in Saudi Arabia.
 - Prediction for the rainfall as well.
+- Using Time Series Analysis.
 
 
 ## Results:
