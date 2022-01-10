@@ -50,9 +50,11 @@ Using current news articles.
 
 ## Results:
 Using Lineaar Regression:
+
 ![image](https://user-images.githubusercontent.com/86031983/148729592-0b21ef80-de7f-4798-8850-c04f8541814e.png)
 
 Using Random forest:
+
 ![image](https://user-images.githubusercontent.com/86031983/148729628-daa2a906-a45c-4e31-8ec8-c26e77edc907.png)
 
 
