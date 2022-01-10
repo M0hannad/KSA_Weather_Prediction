@@ -42,11 +42,14 @@ Sentiment Analysis
 Topic Modeling
 
 ## Limitation:
-Limited packages and libraries that can help Arabic Langauge processing.
-
+- Limited Data Available.
+- Time Limit
+- Finding the best model to use.
 ## Future work:
-Bias Detection to explore the author point of view.
-Using current news articles.
+- Include more cities
+- Use the information to help estimate the potential for solar and wind energy in Saudi Arabia.
+- Prediction for the rainfall as well.
+
 
 ## Results:
 MAE (Mean absolute error), and R-squared are used to Evaulate the model accuracy.
