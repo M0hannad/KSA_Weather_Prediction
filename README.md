@@ -3,7 +3,7 @@
 
 ## Project Describtion
 
-The idea of the project aims to build machine learing model that able to forcast the weather elements in Saudi Arabia. The scope of work were limit to helps answering the following questions:
+The idea of the project aims to build machine learing model that able to forcast the weather elements in Saudi Arabia. The scope of work were focused into the follwing points:
 
 - Predict temperature and pressure for different cities in Saudi Arabia.
 
