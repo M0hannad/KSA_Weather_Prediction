@@ -15,7 +15,7 @@ The idea of the project aims to build machine learing model that able to forcast
 The dataset contains a 249023 rows and 15 columns, and these columns are:
 
 | Variable | Describtion      |
-| ------------- |:-------------:| 
+| ------------- |:-------------| 
 | City    | 13 major cities in Saudi Arabia |
 | Date      | Record date in DD/MM/YY formats
 | Time | Recored time in 24-Hour time format|
