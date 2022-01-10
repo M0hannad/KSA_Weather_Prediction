@@ -17,16 +17,16 @@ The dataset contains a 249023 rows and 15 columns, and these columns are:
 | Variable | Describtion      |
 | ------------- |:-------------:| 
 | City    | 13 major cities in Saudi Arabia |
-| Date      | record date in DD/MM/YY formats
-| Time | recored time in 24-Hour time format|
+| Date      | Record date in DD/MM/YY formats
+| Time | Recored time in 24-Hour time format|
 |Year||
 |Month| |
 |Day|  |
 |Hour| |
 |Minute|  |
-|Weather| weather description ( clear - sunny - .... )|  
-|Temperature| in °C| 
-|Wind| wind speed| 
-|Humidity| percentage of humidity|
-|Barometer| atmospheric pressure|
+|Weather| Weather description ( clear - sunny - .... )|  
+|Temperature| Rerorded temprature in °C| 
+|Wind| wind speed measured in kph| 
+|Humidity| Percentage of humidity|
+|Barometer| Atmospheric pressure|
 |Visibility| How far an object van be seen (in km)|
