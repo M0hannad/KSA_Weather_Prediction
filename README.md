@@ -49,6 +49,7 @@ Bias Detection to explore the author point of view.
 Using current news articles.
 
 ## Results:
+MAE (Mean absolute error), and R-squared are used to Evaulate the model accuracy, 
 - Using Lineaar Regression:
 
 ![image](https://user-images.githubusercontent.com/86031983/148729592-0b21ef80-de7f-4798-8850-c04f8541814e.png)
