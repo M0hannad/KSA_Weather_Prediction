@@ -11,7 +11,7 @@ The idea of the project aims to build machine learing model that able to forcast
 
 
 ## Dataset
----
+
 The dataset contains a 249023 rows and 15 columns, and these columns are:
 
 | Variable | Describtion      |
@@ -30,3 +30,20 @@ The dataset contains a 249023 rows and 15 columns, and these columns are:
 |Humidity| Percentage of humidity|
 |Barometer| Atmospheric pressure in  hPa|
 |Visibility| How far an object van be seen (in km)|
+
+
+## Programming Laguage
+Python
+
+## Approach:
+The steps taken to answer the research question listed above.
+
+Sentiment Analysis
+Topic Modeling
+
+## Limitation:
+Limited packages and libraries that can help Arabic Langauge processing.
+
+## Future work:
+Bias Detection to explore the author point of view.
+Using current news articles.
