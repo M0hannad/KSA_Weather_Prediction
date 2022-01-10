@@ -3,11 +3,11 @@
 
 ## Project Describtion
 
-This project aims to build machine learing model that able to forcast the weather elements in Saudi Arabia. It helps to answer the following questions:
+The idea of the project aims to build machine learing model that able to forcast the weather elements in Saudi Arabia. The scope of work were limit to helps answering the following questions:
 
-Predict the weather element (temp) for different cities in Saudi Arabia.
+- Predict temperature and pressure for different cities in Saudi Arabia.
 
-Use the available data to understand how is the weather is changing in Saudi Arabia.
+- Use the available data to understand how is the weather is changing in Saudi Arabia.
 
 
 ## Dataset
