@@ -14,8 +14,20 @@ Use the available data to understand how is the weather is changing in Saudi Ara
 ---
 The dataset contains a 249023 rows and 15 columns, and these columns are:
 
-| Variable | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Variable | Describtion      |
+| ------------- |:-------------:| 
+| City    | 13 major cities in Saudi Arabia |
+| Date      | record date in DD/MM/YY formats
+| Time | recored time in 24-Hour time format|
+|
+|Year|
+|Month|
+|Day|
+|Hour|
+|Minute|
+|Weather| weather description ( clear - sunny - .... )|
+|Temperature| in °C|
+|Wind| wind speed|
+|Humidity| percentage of humidity|
+|Barometer| atmospheric pressure|
+|Visibility| How far an object van be seen (in km)|
