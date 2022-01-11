@@ -2,9 +2,9 @@
 # Temperature and Wind Speed Forecasting using Two Machine Learning Models
 
 # Contents
-- [Example](#example)
-- [Example2](#example2)
-- [Third Example](#third-example)
+- [Example](#Project Describtion)
+- [Example2](#Dataset)
+- [Third Example](#Programming Language)
 - [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
@@ -41,7 +41,7 @@ The dataset contains a 249023 rows and 15 columns, and these columns are:
 |Visibility| How far an object van be seen (in km)|
 
 
-## Programming Laguage
+## Programming Language
 Python
 
 ## Approach:
