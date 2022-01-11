@@ -26,7 +26,7 @@ The idea of the project is to build machine learning model that able to forcast 
 
 The dataset contains a 249023 rows and 15 columns, and these columns are:
 
-| Variable | Describtion      |
+| :Variable | Describtion      |
 | ------------- |:-------------| 
 | City    | 13 major cities in Saudi Arabia |
 | Date      | Record date in DD/MM/YY formats
