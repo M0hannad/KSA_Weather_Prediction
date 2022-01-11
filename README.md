@@ -55,7 +55,7 @@ Two machine learning models are used to for the predictive analysis:
 
 ## Limitation:
 - Limited Data Available.
-- Not using time series analysis for forcasting
+- Not using time series analysis for forcasting.
 - Few models were use.
 
 
@@ -71,7 +71,7 @@ MAE (Mean absolute error), and R-squared are used to evaulate model accuracy.
 
 ## Future work:
 - Include more cities
-- Use the information to help estimate the potential for solar and wind energy in Saudi Arabia.
+- Use analysis information to help estimate the potential for solar and wind energy in Saudi Arabia.
 - Forecasting of the rainfall as well.
 - Make the prediction using Time Series Analysis.
 
