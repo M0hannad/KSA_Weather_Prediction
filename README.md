@@ -80,3 +80,6 @@ The data for the KSA weather was obtained and utilized to perform predictive mac
 ### References
 
 [f](<a href='https://www.freepik.com/vectors/snow'>Snow vector created by macrovector - www.freepik.com</a>)
+
+
+![qQa5Pd7-weather-wallpapers](https://user-images.githubusercontent.com/86031983/148933556-3bec31b5-f33f-4e1c-9ac3-e7da62f9529e.jpg)
