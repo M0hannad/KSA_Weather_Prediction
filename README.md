@@ -6,9 +6,9 @@
 - [Dataset](#Dataset)
 - [Programming Language](#Programming-Language)
 - [Approach](#Approach)
-- [Limitation](#)
-- [Results and Evaluation](#ResultsandEvaluation)
-- [Future work](#Future work)
+- [Limitation](#Limitation)
+- [Results and Evaluation](#Results-and-Evaluation)
+- [Future work](#Future-work)
 
 ## Project Describtion
 
