@@ -38,10 +38,10 @@ The dataset contains a 249023 rows and 15 columns, and these columns are:
 Python
 
 ## Approach:
-The steps taken to answer the research question listed above.
 
-Sentiment Analysis
-Topic Modeling
+Two machine learning models are used to for the predictive analysis:
+- Lineaar Regression
+- Random Forest
 
 ## Limitation:
 - Limited Data Available.
@@ -60,7 +60,7 @@ MAE (Mean absolute error), and R-squared are used to Evaulate the model accuracy
 
 ![image](https://user-images.githubusercontent.com/86031983/148729592-0b21ef80-de7f-4798-8850-c04f8541814e.png)
 
-- Using Random forest:
+- Using Random Forest:
 
 ![image](https://user-images.githubusercontent.com/86031983/148729628-daa2a906-a45c-4e31-8ec8-c26e77edc907.png)
 
