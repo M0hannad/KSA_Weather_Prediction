@@ -13,7 +13,7 @@
 
 ## Project Describtion
 
-The idea of the project is to build machine learning model that able to forcast the weather elements in Saudi Arabia. The main goals for this project are:
+The idea of the project is to build machine learning model that able to forecast the weather elements in Saudi Arabia. The main goals this project are:
 
 - Predict temperature and Wind Speed for different cities in Saudi Arabia.
 
@@ -55,7 +55,7 @@ Two machine learning models are used to for the predictive analysis:
 
 ## Limitation:
 - Limited Data Available.
-- Not using time series analysis for forcasting.
+- Not using time series analysis for forecasting.
 - Few models were use.
 
 
@@ -77,4 +77,4 @@ MAE (Mean absolute error), and R-squared are used to evaulate model accuracy.
 
 
 ## Conclusion:
-The data for the KSA weather was obtained and utilized to perform predictive machine that can forcast the temprature and wind speed. A Exploratory Data Analysis were carried out to find the trending weather behaviour in Saudi Arabia. Although a relativly good accureacy were achived, this model is not so reliable as the sample size were not big enough (only 3 years time range). Two machine learning models were train, tested, then compared to find the optimal one. To evaluate the model accuracy, several evaluation metrics were used for comparison (MAE, MSE, and R^2). The Mean absolute error for random forest model was 0.17 which is better than 0.37 in the linear regression model.
+The data for the KSA weather was obtained and utilized to perform predictive machine that can forecast the temprature and wind speed. A Exploratory Data Analysis were carried out to find the trending weather behaviour in Saudi Arabia. Although a relativly good accureacy were achived, this model is not so reliable as the sample size were not big enough (only 3 years time range). Two machine learning models were train, tested, then compared to find the optimal one. To evaluate the model accuracy, several evaluation metrics were used for comparison (MAE, MSE, and R^2). The Mean absolute error for random forest model was 0.17 which is better than 0.37 in the linear regression model.
