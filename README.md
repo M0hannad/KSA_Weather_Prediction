@@ -1,6 +1,6 @@
 
 # Temperature and Wind Speed Forecasting using Two Machine Learning Models
-![weather](https://user-images.githubusercontent.com/86031983/148934395-21a40a80-1aec-4945-ae5b-72b3a612c044.jpg)
+![weather0000](https://user-images.githubusercontent.com/86031983/148934550-19eadb48-b44e-429f-8717-f5341667171f.jpg)
 ## Contents
 - [Project Describtion](#project-describtion)
 - [Dataset](#Dataset)
