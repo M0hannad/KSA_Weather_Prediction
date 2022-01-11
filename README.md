@@ -1,7 +1,7 @@
 
 # Temperature and Wind Speed Forecasting using Two Machine Learning Models
-![https://www.istockphoto.com/photo/weather-forecast-on-a-digital-display-7-day-dashboard-3d-illustration-gm1176320050-327914255?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fweather-forecast&utm_term=weather%20forecast%3A%3A%3A](https://user-images.githubusercontent.com/86031983/148937545-604c9533-5cce-4e21-a0a7-2bf310895dc2.png)
-[t](https://www.istockphoto.com/photo/weather-forecast-on-a-digital-display-7-day-dashboard-3d-illustration-gm1176320050-327914255?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fweather-forecast&utm_term=weather%20forecast%3A%3A%3A)
+![image](https://user-images.githubusercontent.com/86031983/148937545-604c9533-5cce-4e21-a0a7-2bf310895dc2.png)
+
 ## Contents
 - [Project Describtion](#project-describtion)
 - [Dataset](#Dataset)
