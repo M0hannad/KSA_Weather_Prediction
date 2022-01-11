@@ -60,11 +60,11 @@ Two machine learning models are used to for the predictive analysis:
 
 ## Results and Evaluation:
 MAE (Mean absolute error), and R-squared are used to evaulate model accuracy.
-> Using Lineaar Regression:
+ >Using Lineaar Regression:
 
 ![image](https://user-images.githubusercontent.com/86031983/148729592-0b21ef80-de7f-4798-8850-c04f8541814e.png)
 
-> Using Random Forest:
+ >Using Random Forest:
 
 ![image](https://user-images.githubusercontent.com/86031983/148729628-daa2a906-a45c-4e31-8ec8-c26e77edc907.png)
 
