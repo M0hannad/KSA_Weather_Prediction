@@ -3,9 +3,9 @@
 
 ## Project Describtion
 
-The idea of the project aims to build machine learing model that able to forcast the weather elements in Saudi Arabia. The main goals for this project are:
+The idea of the project is to build machine learning model that able to forcast the weather elements in Saudi Arabia. The main goals for this project are:
 
-- Predict temperature and pressure for different cities in Saudi Arabia.
+- Predict temperature and Wind Speed for different cities in Saudi Arabia.
 
 - Compare the results for using two ML models.
 
