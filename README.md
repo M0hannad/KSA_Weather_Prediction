@@ -40,8 +40,8 @@ Python
 ## Approach:
 
 Two machine learning models are used to for the predictive analysis:
-- Lineaar Regression
-- Random Forest
+- `Linear Regression`
+- `Random Forest`
 
 ## Limitation:
 - Limited Data Available.
