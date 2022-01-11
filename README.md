@@ -45,13 +45,13 @@ Topic Modeling
 
 ## Limitation:
 - Limited Data Available.
-- Not using time series focasting
+- Not using time series forcasting
 - Finding the best model to use.
 ## Future work:
 - Include more cities
 - Use the information to help estimate the potential for solar and wind energy in Saudi Arabia.
 - Prediction for the rainfall as well.
-- Using Time Series Analysis.
+- Make prediction using Time Series Analysis.
 
 
 ## Results:
