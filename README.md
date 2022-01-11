@@ -77,6 +77,6 @@ MAE (Mean absolute error), and R-squared are used to evaulate model accuracy.
 
 
 ### Conclusion:
-The data for the KSA weather was obtained and utilized to perform predictive machine that can forcast the temprature and wind speed. A Exploratory Data Analysis were carried out to find the trening weather behaviour in Saudi Arabia. Although a relativly good accureacy were achived, this model is not so reliable as the sample size were not big enough (only 3 years time range).For a variety of There were several hurdles throughout the development process, particularly in the and model training stages. The accuracy of the model is 67 percent, indicating that it did not generalize effectively.
-### References
+The data for the KSA weather was obtained and utilized to perform predictive machine that can forcast the temprature and wind speed. A Exploratory Data Analysis were carried out to find the trending weather behaviour in Saudi Arabia. Although a relativly good accureacy were achived, this model is not so reliable as the sample size were not big enough (only 3 years time range). For a variety of There were several hurdles throughout the development process, particularly in the and model training stages. The accuracy of the model is 67 percent, indicating that it did not generalize effectively.
+
 
