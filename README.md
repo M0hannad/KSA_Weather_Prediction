@@ -3,7 +3,7 @@
 
 # Contents
 - [Project Describtion](#Project Describtion)
-- [Example2](#Dataset)
+- [Example2](##Dataset)
 - [Third Example](#Programming Language)
 - [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
@@ -61,7 +61,7 @@ Two machine learning models are used to for the predictive analysis:
 - Make prediction using Time Series Analysis.
 
 
-## Results:
+## Results and Evaluation:
 MAE (Mean absolute error), and R-squared are used to Evaulate the model accuracy.
 - Using Lineaar Regression:
 
