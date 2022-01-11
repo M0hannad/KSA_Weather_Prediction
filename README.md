@@ -2,10 +2,10 @@
 # Temperature and Wind Speed Forecasting using Two Machine Learning Models
 
 # Contents
-- [Example1](#project-describtion)
-- [Example2](#Dataset)
-- [Third Example](#Programming Language)
-- [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+- [Project Describtion](#project-describtion)
+- [Dataset](#Dataset)
+- [Programming Language](#Programming-Language)
+- [Approach](#Approach)
 
 
 ## Project Describtion
