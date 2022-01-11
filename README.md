@@ -59,7 +59,7 @@ Two machine learning models are used to for the predictive analysis:
 
 
 ## Results and Evaluation:
-MAE (Mean absolute error), and R-squared are used to Evaulate the model accuracy.
+MAE (Mean absolute error), and R-squared are used to evaulate model accuracy.
 - **Using Lineaar Regression**:
 
 ![image](https://user-images.githubusercontent.com/86031983/148729592-0b21ef80-de7f-4798-8850-c04f8541814e.png)
