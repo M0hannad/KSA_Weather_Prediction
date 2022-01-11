@@ -6,7 +6,9 @@
 - [Dataset](#Dataset)
 - [Programming Language](#Programming-Language)
 - [Approach](#Approach)
-
+- [Limitation](#)
+- [Results and Evaluation](#ResultsandEvaluation)
+- [Future work](#Future work)
 
 ## Project Describtion
 
@@ -54,11 +56,6 @@ Two machine learning models are used to for the predictive analysis:
 - Limited Data Available.
 - Not using time series forcasting
 - Finding the best model to use.
-## Future work:
-- Include more cities
-- Use the information to help estimate the potential for solar and wind energy in Saudi Arabia.
-- Prediction for the rainfall as well.
-- Make prediction using Time Series Analysis.
 
 
 ## Results and Evaluation:
@@ -70,6 +67,12 @@ MAE (Mean absolute error), and R-squared are used to Evaulate the model accuracy
 - Using Random Forest:
 
 ![image](https://user-images.githubusercontent.com/86031983/148729628-daa2a906-a45c-4e31-8ec8-c26e77edc907.png)
+
+## Future work:
+- Include more cities
+- Use the information to help estimate the potential for solar and wind energy in Saudi Arabia.
+- Prediction for the rainfall as well.
+- Make prediction using Time Series Analysis.
 
 
 ### Conclusion:
