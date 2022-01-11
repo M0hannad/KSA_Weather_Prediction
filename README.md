@@ -1,5 +1,6 @@
 
 # Temperature and Wind Speed Forecasting using Two Machine Learning Models
+![34616](https://user-images.githubusercontent.com/86031983/148934018-dd610474-8e27-46cf-8bf9-24cbbbfa3543.jpg)
 
 ## Contents
 - [Project Describtion](#project-describtion)
@@ -79,7 +80,3 @@ MAE (Mean absolute error), and R-squared are used to evaulate model accuracy.
 The data for the KSA weather was obtained and utilized to perform predictive machine that can forcast the temprature and wind speed. A Exploratory Data Analysis were carried out to find the trening weather behaviour in Saudi Arabia. Although a relativly good accureacy were achived, this model is not so reliable as the sample size were not big enough (only 3 years time range).For a variety of There were several hurdles throughout the development process, particularly in the and model training stages. The accuracy of the model is 67 percent, indicating that it did not generalize effectively.
 ### References
 
-[f](<a href='https://www.freepik.com/vectors/snow'>Snow vector created by macrovector - www.freepik.com</a>)
-
-
-![qQa5Pd7-weather-wallpapers](https://user-images.githubusercontent.com/86031983/148933556-3bec31b5-f33f-4e1c-9ac3-e7da62f9529e.jpg)
