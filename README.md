@@ -36,16 +36,22 @@ The dataset contains a 249023 rows and 15 columns, and these columns are:
 |Day| Recorded Day |
 |Hour| Recorded Hour|
 |Minute| Recorded Minute |
-|Weather| Weather description ( Clear - Sunny - Cloudy - ... )|  
+|Weather| Describtion of weather condition ( Clear - Sunny - Cloudy - ... )|  
 |Temperature| Rerorded temprature (in °C)| 
 |Wind| wind speed measured (in kph)| 
 |Humidity| Percentage of humidity|
 |Barometer| Atmospheric pressure (in hPa)|
-|Visibility| How far an object van be seen (in km)|
+|Visibility| a measure of the distance at which an object or light can be clearly discerned (in km)|
 
 
 ## Programming Language and Libraries
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn).
+**Python**:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
 
 ## Approach:
 
