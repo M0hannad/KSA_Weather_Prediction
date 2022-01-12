@@ -76,7 +76,7 @@ MAE (Mean absolute error), and R-squared are used to evaulate model accuracy.
 ## Future work:
 - Include more cities
 - Use analysis information to help estimate the potential for solar and wind energy in Saudi Arabia.
-- Forecasting of the rainfall as well.
+- Forecast the rainfall as well.
 - Make the prediction using Time Series Analysis.
 
 
