@@ -71,7 +71,7 @@ MAE (Mean absolute error), and R-squared are used to evaulate model accuracy.
 > Accuracy for Random Forest: 0.9803790198725455
 
 **Wind Spead Using Random Forest:**
-> Wind Speed: 0.5938123950492595
+> Accuracy for Wind Speed: 0.5938123950492595
 
 
 
