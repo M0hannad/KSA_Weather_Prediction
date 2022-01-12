@@ -56,7 +56,7 @@ Two machine learning models are used to for the predictive analysis:
 ## Limitation:
 - Limited Data Available.
 - Not using time series analysis for forecasting.
-- Few models were use.
+- Few models were used.
 
 
 ## Results and Evaluation:
