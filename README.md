@@ -63,14 +63,12 @@ Two machine learning models are used to for the predictive analysis:
 MAE (Mean absolute error), and R-squared are used to evaulate model accuracy.
 
 **Temperature Using Linear Regression:**
-
 > Accuracy for Linear Regression: 0.7785913886229557
 
 **Temperature Using Random Forest:**
-
 > Accuracy for Random Forest: 0.9803790198725455
 
-**Wind Spead Using Random Forest:**
+**Wind Speed Using Random Forest:**
 > Accuracy for Wind Speed: 0.5938123950492595
 
 
