@@ -50,7 +50,7 @@ Python
 ## Approach:
 
 Two machine learning models are used to for the predictive analysis:
-- ###`Linear Regression`
+- `###Linear Regression`
 - ###`Random Forest`
 
 ## Limitation:
