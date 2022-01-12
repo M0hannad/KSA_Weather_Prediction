@@ -56,8 +56,8 @@ The dataset contains a 249023 rows and 15 columns, and these columns are:
 ## Approach:
 
 Two machine learning models are used to for the predictive analysis:
-- `Linear Regression`
-- `Random Forest`
+- **Linear Regression**
+- **Random Forest**
 
 ## Limitation:
 - Limited Data Available.
