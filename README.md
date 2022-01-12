@@ -5,7 +5,7 @@
 ## Contents
 - [Project Describtion](#project-describtion)
 - [Dataset](#Dataset)
-- [Programming Language](#Programming-Language-and-libraries)
+- [Language and Libraries](#Programming-Language-and-libraries)
 - [Approach](#Approach)
 - [Limitation](#Limitation)
 - [Results and Evaluation](#Results-and-Evaluation)
