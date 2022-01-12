@@ -37,10 +37,10 @@ The dataset contains a 249023 rows and 15 columns, and these columns are:
 |Hour| Recorded Hour|
 |Minute| Recorded Minute |
 |Weather| Weather description ( Clear - Sunny - ... )|  
-|Temperature| Rerorded temprature in °C| 
-|Wind| wind speed measured in kph| 
+|Temperature| Rerorded temprature (in °C)| 
+|Wind| wind speed measured (in kph)| 
 |Humidity| Percentage of humidity|
-|Barometer| Atmospheric pressure in  hPa|
+|Barometer| Atmospheric pressure (in hPa)|
 |Visibility| How far an object van be seen (in km)|
 
 
