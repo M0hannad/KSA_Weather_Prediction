@@ -17,7 +17,7 @@ The idea of the project is to build machine learning model that able to forecast
 
 - Predict Temperature and Wind Speed for different cities in Saudi Arabia.
 
-- Compare the results for using two ML models.
+- Compare the results of using two ML models.
 
 - Use the available data to understand how is the weather is changing in Saudi Arabia.
 
