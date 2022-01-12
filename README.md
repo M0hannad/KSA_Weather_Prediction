@@ -5,11 +5,12 @@
 ## Contents
 - [Project Describtion](#project-describtion)
 - [Dataset](#Dataset)
-- [Programming Language](#Programming-Language)
+- [Language and Libraries](#Programming-Language-and-libraries)
 - [Approach](#Approach)
 - [Limitation](#Limitation)
 - [Results and Evaluation](#Results-and-Evaluation)
 - [Future work](#Future-work)
+- [Conclusion](#Conclusion)
 
 ## Project Describtion
 
@@ -36,22 +37,28 @@ The dataset contains a 249023 rows and 15 columns, and these columns are:
 |Day| Recorded Day |
 |Hour| Recorded Hour|
 |Minute| Recorded Minute |
-|Weather| Weather description ( Clear - Sunny - ... )|  
+|Weather| Describtion of weather condition ( Clear - Sunny - Cloudy - ... )|  
 |Temperature| Rerorded temprature (in °C)| 
 |Wind| wind speed measured (in kph)| 
 |Humidity| Percentage of humidity|
 |Barometer| Atmospheric pressure (in hPa)|
-|Visibility| How far an object van be seen (in km)|
+|Visibility| a measure of the distance at which an object or light can be clearly discerned (in km)|
 
 
-## Programming Language
-Python
+## Programming Language and Libraries
+**Python**:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
 
 ## Approach:
 
 Two machine learning models are used to for the predictive analysis:
-- `Linear Regression`
-- `Random Forest`
+- **Linear Regression**
+- **Random Forest**
 
 ## Limitation:
 - Limited Data Available.
